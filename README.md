@@ -40,6 +40,6 @@
 
 ### Log
 
-- Parou em -0:45:19
+- Parou aula - 02 -1.12.01
 
 - [GraphQL](https://www.howtographql.com/)
