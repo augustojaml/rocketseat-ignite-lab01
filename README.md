@@ -41,3 +41,5 @@
 ### Log
 
 - Parou em -0:45:19
+
+- [GraphQL](https://www.howtographql.com/)
